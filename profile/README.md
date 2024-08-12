@@ -1,12 +1,23 @@
-## Ничего необычного 👩‍💻
+# Хостинг Minecraft для настоящих игроков :electron:
 
-<!--
+<details>
+<summary>Title</summary>
+Test
+</details>
 
-**Here are some ideas to get you started:**
+## Что мы предлагаем:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* Высокоскоростной хостинг: Забудьте о лагах и торможениях. Наши серверы работают на мощном оборудовании, оптимизированном для Minecraft.
+* Простая настройка: Создайте свой сервер за пару кликов. Наш дружелюбный интерфейс упрощает управление сервером и настройку его параметров.
+* Постоянная поддержка: Наша техподдержка всегда готова помочь вам с настройкой и решением проблем.
+* Гибкие планы: Выбирайте тарифный план, который идеально подходит для ваших потребностей и бюджета. 
+
+## 👥 Наша команда
+
+- [x] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+
