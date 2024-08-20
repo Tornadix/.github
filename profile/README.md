@@ -16,5 +16,5 @@
 
 ## 👥 Наша команда
 
-- [@doggidoggi](https://github.com/doggidoggi) - <span style="color: #5865f2; font-weight: bold;">Основатель</span>
+- [@doggidoggi](https://github.com/doggidoggi) - <span style="color: #5865f2; font-weight: bold;">Разработчик</span>
 - [@RetrilzzY](https://github.com/RetrilzzY) - <span style="color: #5865f2; font-weight: bold;">Ведущий разработчик</span>
