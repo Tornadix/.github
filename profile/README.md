@@ -4,5 +4,5 @@
 
 ## 👥 Наша команда разработчиков
 
-- [@doggidoggi](https://github.com/doggidoggi) - <span style="color: #5865f2; font-weight: bold;">Frontend-разработчик</span>
+- [@doggidoggi](https://github.com/doggidoggi) - <span style="color: #5865f2; font-weight: bold;">Frontend-разработчик и основатель</span>
 - [@RetrilzzY](https://github.com/RetrilzzY) - <span style="color: #5865f2; font-weight: bold;">Ведущий разработчик команды, Backend-разработчик, DevOps-инженер</span>
